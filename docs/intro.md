@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Ichain
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Ichain Tech**.
 
-## Getting Started
+## Ichain Tech
 
 Get started by **creating a new site**.
 
